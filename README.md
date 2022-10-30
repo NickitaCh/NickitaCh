@@ -6,8 +6,8 @@
 - Finished Yandex QA automatization course.
 <ol>
   <li><a href="https://github.com/NickitaCh/Diplom1">Unit testing</a></li>
-  <li><a href="https://github.com/NickitaCh/Diplom2">UI testing</a></li>
-  <li><a href="https://github.com/NickitaCh/Diplom3">API testing</a></li>
+  <li><a href="https://github.com/NickitaCh/Diplom2">API testing</a></li>
+  <li><a href="https://github.com/NickitaCh/Diplom3">UI testing</a></li>
 </ol>
 
 - Finished some courses on Stepik:
