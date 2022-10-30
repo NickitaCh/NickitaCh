@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**Nikotinsv/Nikotinsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently learning Java and QA automatization
+- Finished Yandex QA automatization course.
+  1. q
+  2. w
+  3. e
+- Finished some courses on Stepik:
+  1. Postman (https://stepik.org/cert/1679374)
+  2. Web technologies (https://stepik.org/cert/1479033) 
+- Finished two courses on JavaOps:
+  1. StartJava
+  2. BaseJava
