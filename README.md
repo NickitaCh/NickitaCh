@@ -9,5 +9,5 @@ Hi there 👋
   1. <a href="https://stepik.org/cert/1679374">Postman</a>
   2. <a href="https://stepik.org/cert/1479033">Web technologies</a>
 - Finished two courses on JavaOps:
-  1. StartJava
-  2. BaseJava
+  1. <a href="https://github.com/Nikotinsv/JavaStart">StartJava</a>
+  2. <a href="https://github.com/Nikotinsv/BaseJava">BaseJava</a>
