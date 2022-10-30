@@ -1,17 +1,23 @@
-Hi there 👋
+<h1>Hi, I'm Nickita!</h1>
 
-- I’m currently learning Java and QA automatization
+<h2>I’m currently learning Java and QA automatization</h2>
+
+
 - Finished Yandex QA automatization course.
-  1. q
-  2. w
-  3. e
+<ol>
+  <li><a href="https://github.com/Nikotinsv/Diplom1">Unit testing</a></li>
+  <li><a href="https://github.com/Nikotinsv/Diplom2">UI testing</a></li>
+  <li><a href="https://github.com/Nikotinsv/Diplom3">API testing</a></li>
+</ol>
+
 - Finished some courses on Stepik:
 <ol>
   <li><a href="https://stepik.org/cert/1679374">Postman</a></li>
   <li><a href="https://stepik.org/cert/1479033">Web technologies</a></li>
 </ol>
-  
-  2. 
+
 - Finished two courses on JavaOps:
-  1. <a href="https://github.com/Nikotinsv/JavaStart">StartJava</a>
-  2. <a href="https://github.com/Nikotinsv/BaseJava">BaseJava</a>
+<ol>
+  <li><a href="https://github.com/Nikotinsv/JavaStart">StartJava</a></li>
+  <li><a href="https://github.com/Nikotinsv/BaseJava">BaseJava</a></li>
+</ol>
